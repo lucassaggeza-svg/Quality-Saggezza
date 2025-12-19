@@ -1,1 +1,1 @@
-# Quality-Saggezza
+npx create-next-app@latest .
